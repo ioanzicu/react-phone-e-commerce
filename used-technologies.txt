@@ -2,3 +2,5 @@ Html
 Css
 React JS
 Styled Component
+Netlify
+Paypal payment System
