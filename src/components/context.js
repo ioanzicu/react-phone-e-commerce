@@ -167,6 +167,7 @@ class ProductProvider extends Component {
           cartTotal: total
         };
       });
+      return item;
     });
   };
 
